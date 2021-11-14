@@ -9,11 +9,11 @@ export default function Registro() {
           <Head>
             <title>Clinica internacional - SGP</title>
           </Head>
-           <Navigation/>
-          <div>
-            seccion registro
-          </div>
-       
+           <Navigation>
+            <div>
+              seccion registro
+            </div>
+          </Navigation>
       </div>
 
 

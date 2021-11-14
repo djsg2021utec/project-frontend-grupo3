@@ -9,10 +9,11 @@ export default function Administracion() {
           <Head>
             <title>Clinica internacional - SGP</title>
           </Head>
-           <Navigation/>
+           <Navigation>
           <div>
             seccion admin
           </div>
+           </Navigation>
        
       </div>
 

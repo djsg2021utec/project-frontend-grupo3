@@ -9,10 +9,11 @@ export default function Pacientes() {
           <Head>
             <title>Clinica internacional - SGP</title>
           </Head>
-           <Navigation/>
-          <div>
-            seccion pacientes
-          </div>
+           <Navigation>
+            <div>
+              seccion pacientes
+            </div>
+           </Navigation>
        
       </div>
 

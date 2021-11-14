@@ -9,12 +9,14 @@ export default function Inicio() {
           <Head>
             <title>Clinica internacional - SGP</title>
           </Head>
-           <Navigation/>
+           <Navigation>
           <div>
              <p className="test">seccion inicio</p>            
           </div>
+          </Navigation>
        
       </div>
 
   )
 }
+

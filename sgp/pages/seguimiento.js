@@ -9,10 +9,11 @@ export default function Seguimiento() {
           <Head>
             <title>Clinica internacional - SGP</title>
           </Head>
-           <Navigation/>
-          <div>
-            seccion seguimiento
-          </div>
+           <Navigation>
+            <div>
+              seccion seguimiento
+            </div>
+           </Navigation>
        
       </div>
 

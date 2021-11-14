@@ -11,10 +11,9 @@ export default function Login() {
        <div>
           <Head>
             <title>Clinica internacional - SGP</title>
-          </Head>
-          <Navigation/>
+          </Head>          
           <div>
-            <p className="test">seccion login</p>
+            <p className="test">aqui estaria el login</p>
           </div>
        
       </div>
