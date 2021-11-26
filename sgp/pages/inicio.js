@@ -20,6 +20,7 @@ const ColoredLine = ({color}) => (
 );
 
 
+
 export default function Inicio() {
   return (   
        <div>
